@@ -74,7 +74,6 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-## Output:
 ![image](https://github.com/user-attachments/assets/140b1bcb-9c4e-48cc-aef1-73fe8519d538)
 
 ### y_pred
